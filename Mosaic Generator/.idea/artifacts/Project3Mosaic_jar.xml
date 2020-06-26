@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Project3Mosaic:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Project3Mosaic_jar</output-path>
+    <root id="archive" name="Project3Mosaic.jar">
+      <element id="module-output" name="Project3Mosaic" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Project3Mosaic:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94d1c2dd-7bec-4f5f-bca3-dc9d74eeca43" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dqv4rf8XSx6HduqQwp6XG9ykZg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pokemon Battle Game" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="mosaic.Main" />
+      <module name="Project3Mosaic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mosaic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94d1c2dd-7bec-4f5f-bca3-dc9d74eeca43" name="Default Changelist" comment="" />
+      <created>1593165249825</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593165249825</updated>
+      <workItem from="1593165255911" duration="150000" />
+      <workItem from="1593165767073" duration="818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="406" y="184" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593165835608">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="406" y="184" width="525" height="428" key="#com.intellij.ide.util.TreeClassChooserDialog/0.27.1366.741@0.27.1366.741" timestamp="1593165835608" />
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl" timestamp="1593168151169">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="466" y="154" width="424" height="484" key="FileChooserDialogImpl/0.27.1366.741@0.27.1366.741" timestamp="1593168151169" />
+    <state width="1320" height="517" key="GridCell.Tab.0.bottom" timestamp="1593165404982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="517" key="GridCell.Tab.0.bottom/0.27.1366.741@0.27.1366.741" timestamp="1593165404982" />
+    <state width="1320" height="517" key="GridCell.Tab.0.center" timestamp="1593165404981">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="517" key="GridCell.Tab.0.center/0.27.1366.741@0.27.1366.741" timestamp="1593165404981" />
+    <state width="1320" height="517" key="GridCell.Tab.0.left" timestamp="1593165404980">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="517" key="GridCell.Tab.0.left/0.27.1366.741@0.27.1366.741" timestamp="1593165404980" />
+    <state width="1320" height="517" key="GridCell.Tab.0.right" timestamp="1593165404982">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state width="1320" height="517" key="GridCell.Tab.0.right/0.27.1366.741@0.27.1366.741" timestamp="1593165404982" />
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1593165877435">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="166" y="27" width="1024" height="741" key="SettingsEditor/0.27.1366.741@0.27.1366.741" timestamp="1593165877435" />
+  </component>
+</project>
